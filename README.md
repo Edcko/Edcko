@@ -36,6 +36,15 @@ Mi enfoque se centra en comprender cada capa del sistema para crear soluciones s
 
 Desarrollo integral de una plataforma para la administración operativa de gimnasios con múltiples sucursales, enfocada en membresías, reservas, control de usuarios y seguimiento del negocio.
 
+<p align="center">
+  <img src="assets/Dashboard_admin.png" alt="Dashboard BNKR" width="45%" />
+  <img src="assets/Clientes.png" alt="Clientes BNKR" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/Membresia.png" alt="Membresías BNKR" width="45%" />
+</p>
+
 **Principales funcionalidades:**
 - Gestión multi-sucursal con separación operativa de información
 - Integración de pagos con Stripe para membresías y renovaciones
@@ -51,6 +60,15 @@ Desarrollo integral de una plataforma para la administración operativa de gimna
 ### 💆 [Sistema de Gestión para Spas — Cherry](https://www.gpocherry.com/login)
 
 Plataforma de gestión para spas orientada a la administración de sucursales, agenda operativa, clientes, servicios y seguimiento comercial.
+
+<p align="center">
+  <img src="assets/Dashboard_ventas.png" alt="Dashboard Cherry" width="45%" />
+  <img src="assets/Calendario_inteligente.png" alt="Calendario Cherry" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/Vista_clientes.png" alt="Clientes Cherry" width="45%" />
+</p>
 
 **Principales funcionalidades:**
 - Calendario operativo con validación de conflictos y control de cabinas
