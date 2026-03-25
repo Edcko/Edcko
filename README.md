@@ -1,6 +1,5 @@
 # ¡Hola! Soy Misael Rosas Carballo 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20DevOps&descAlignY=65" />
 
 ---
 
@@ -90,5 +89,3 @@ Plataforma de gestión para spas orientada a la administración de sucursales, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Misael_Rosas_Carballo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rosas-carballo)
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" />
