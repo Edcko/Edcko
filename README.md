@@ -18,14 +18,24 @@ const misael = {
 ## 🚀 Proyectos Destacados
 
 ### 🏋️ [BNKR Gym Management System](https://www.bunkerboxgym.com)
-Sistema completo de gestión para gimnasios con membresías, reservas, pagos con Stripe y panel de administración.
 
-**Stack:** Vue.js · Node.js · TypeScript · PostgreSQL · Stripe · Docker
+Sistema completo de gestión para gimnasios con arquitectura fullstack. Administra múltiples sucursales, membresías, clases, reservas, pagos y personal en una plataforma integrada.
+
+**Stack:** Vue.js 3 · Node.js · TypeScript · PostgreSQL · Stripe · Socket.io · Docker
+
+**Características:**
+- 🏢 Gestión multi-sucursal con aislamiento de datos
+- 💳 Procesamiento de pagos con Stripe
+- 📅 Sistema de clases, reservas y horarios
+- 👥 6 niveles de roles (Super Admin → Cliente)
+- 📊 Dashboard con estadísticas y reportes
+- 📦 Inventario con alertas de stock bajo
 
 ---
 
 ### 💆 [Cherry SPA - Gestión para Spas de Belleza](https://www.gpocherry.com/login)
-Plataforma enterprise multi-sucursal para administración de spas. Gestión de citas, CRM de clientes, control de empleados con 8 niveles de acceso y comunicación en tiempo real.
+
+Plataforma enterprise multi-sucursal para administración de spas de belleza. Gestión de citas, CRM de clientes, control de empleados y comunicación en tiempo real.
 
 **Stack:** Vue 3 · Pinia · Vuetify · Node.js · PostgreSQL · Socket.io
 
@@ -33,16 +43,25 @@ Plataforma enterprise multi-sucursal para administración de spas. Gestión de c
 - 📅 Calendario inteligente con bloqueo de cabinas
 - 👥 CRM con historial de sesiones y pagos a plazos
 - 🏢 Arquitectura multi-tenant
-- 🔐 Control de acceso basado en roles (RBAC)
+- 🔐 8 niveles de acceso (Desarrollador → Terapeuta)
 - 📊 Reportes en PDF y Excel
-- ⚡ Sincronización en tiempo real
+- ⚡ Sincronización en tiempo real con Socket.io
 
 ---
 
 ### 🍼 [One Baby Shop](https://github.com/Edcko/one-baby-shop)
-E-commerce moderno para productos de bebé con catálogo, carrito, checkout y panel de administración.
 
-**Stack:** Vue 3 · Vite · Tailwind CSS · PayPal · Mercado Pago
+E-commerce completo especializado en productos para bebé. Catálogo con filtros, carrito persistente, pagos en línea y panel de administración integral.
+
+**Stack:** Vue 3 · Vite · Tailwind CSS · Node.js · PostgreSQL · Stripe · Mercado Pago
+
+**Características:**
+- 🛒 Catálogo con filtros avanzados y búsqueda
+- 💳 Pagos con Stripe y Mercado Pago
+- 👤 Sistema de usuarios con roles y wishlist
+- ⭐ Reseñas y valoraciones de productos
+- 📦 Panel de administración completo
+- ☁️ Integración con Cloudinary para imágenes
 
 ---
 
@@ -51,7 +70,7 @@ E-commerce moderno para productos de bebé con catálogo, carrito, checkout y pa
 | Categoría | Tecnologías |
 |-----------|-------------|
 | **Lenguajes** | TypeScript, JavaScript, Java, C#, Python, Dart, Haskell |
-| **Frontend** | Angular, Vue.js, Flutter |
+| **Frontend** | Angular, Vue.js 3, Flutter |
 | **Backend** | Spring Boot, .NET, Node.js, Express, Hibernate |
 | **Bases de Datos** | PostgreSQL, SQL Server, MySQL |
 | **Cloud & DevOps** | Azure, AWS, Docker, Nginx, PM2, Git |
