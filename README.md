@@ -1,6 +1,6 @@
 # ¡Hola! Soy Misael Rosas Carballo 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20DevOps&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20Python%20|%20DevOps&descAlignY=65" />
 
 ---
 
