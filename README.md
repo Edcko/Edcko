@@ -14,36 +14,15 @@ Mi enfoque se centra en comprender cada capa del sistema para crear soluciones s
 
 ---
 
-## Estadísticas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&hide_rank=true" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&hide_border=true&hide_rank=true" />
-</picture>
-
----
-
 ## Proyectos destacados
 
 ### 🏋️ [Sistema de Gestión para Gimnasios — BNKR](https://www.bunkerboxgym.com)
 
 Desarrollo integral de una plataforma para la administración operativa de gimnasios con múltiples sucursales, enfocada en membresías, reservas, control de usuarios y seguimiento del negocio.
 
-<p align="center">
-  <img src="assets/Dashboard_admin.png" alt="Dashboard BNKR" width="45%" />
-  <img src="assets/Clientes.png" alt="Clientes BNKR" width="45%" />
-</p>
-
-<p align="center">
-  <img src="assets/Membresia.png" alt="Membresías BNKR" width="45%" />
-</p>
+![Dashboard BNKR](assets/Dashboard_admin.png)
+![Clientes BNKR](assets/Clientes.png)
+![Membresías BNKR](assets/Membresia.png)
 
 **Principales funcionalidades:**
 - Gestión multi-sucursal con separación operativa de información
@@ -61,14 +40,9 @@ Desarrollo integral de una plataforma para la administración operativa de gimna
 
 Plataforma de gestión para spas orientada a la administración de sucursales, agenda operativa, clientes, servicios y seguimiento comercial.
 
-<p align="center">
-  <img src="assets/Dashboard_ventas.png" alt="Dashboard Cherry" width="45%" />
-  <img src="assets/Calendario_inteligente.png" alt="Calendario Cherry" width="45%" />
-</p>
-
-<p align="center">
-  <img src="assets/Vista_clientes.png" alt="Clientes Cherry" width="45%" />
-</p>
+![Dashboard Cherry](assets/Dashboard_ventas.png)
+![Calendario Cherry](assets/Calendario_inteligente.png)
+![Clientes Cherry](assets/Vista_clientes.png)
 
 **Principales funcionalidades:**
 - Calendario operativo con validación de conflictos y control de cabinas
