@@ -60,11 +60,17 @@ const edcko = {
 <summary><b>🧑‍💻 Lenguajes más usados</b></summary>
 <br>
 
+<div align="center">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Edcko.Edcko)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
 </picture>
+
+</div>
 
 </details>
 
