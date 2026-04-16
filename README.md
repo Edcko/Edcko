@@ -2,19 +2,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20Python%20|%20DevOps&descAlignY=65" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=40&lines=Full+Stack+Developer;Building+production+systems;Vue.js+%C2%B7+React+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+Python;M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
+
 ---
 
 ## Sobre mí
 
-Full Stack Developer especializado en la construcción de software orientado a necesidades reales de negocio. He desarrollado e implementado plataformas completas para distintos sectores, participando en frontend, backend, bases de datos, integraciones de terceros y despliegue en producción.
+```typescript
+interface Developer {
+  name: "Misael Rosas Carballo";
+  role: "Full Stack Developer";
+  location: "México 🇲🇽";
+  languages: ["Español", "English"];
 
-Cuento con experiencia en integraciones de pago como Stripe y Mercado Pago, configuración de infraestructura con Docker y Nginx, y diseño de arquitecturas multi-tenant con aislamiento de información por cliente.
+  currentFocus: [
+    "Sistemas multi-tenant en producción",
+    "Open source — ecosistema Techne (Go)",
+    "React Native / Expo apps"
+  ];
 
-Mi enfoque se centra en comprender cada capa del sistema para crear soluciones sólidas, mantenibles y funcionales, desde la lógica de negocio y la persistencia de datos hasta la automatización y el despliegue.
+  productionProjects: {
+    bnkr: "Sistema de gestión para gimnasios — Vue.js · Stripe · PostgreSQL";
+    cherry: "Sistema de gestión para spas — Vue 3 · Socket.io · multi-tenant";
+    publicSecurity: "Gestión policial — Next.js · PostgreSQL";
+  };
+
+  infrastructure: [
+    "Docker & Nginx para despliegue en producción",
+    "Arquitecturas multi-tenant con aislamiento por cliente",
+    "Integraciones de pago: Stripe, Mercado Pago"
+  ];
+
+  philosophy: "Cada capa del sistema importa — desde la UI hasta la infraestructura";
+}
+```
 
 ---
 
-## Estadísticas
+<details>
+<summary><b>📊 Estadísticas de GitHub</b></summary>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
@@ -27,6 +54,8 @@ Mi enfoque se centra en comprender cada capa del sistema para crear soluciones s
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&hide_border=true&hide_rank=true" />
 </picture>
+
+</details>
 
 ---
 
