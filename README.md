@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20Python%20|%20DevOps&descAlignY=65" />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=40&lines=Full+Stack+Developer;Building+production+systems;Vue.js+%C2%B7+React+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+Python;M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=40&lines=Building+production+systems+that+serve+real+users;Multi-tenant+architectures+with+PostgreSQL+%26+Docker;Open+source+contributor+%E2%80%94+Techne+ecosystem+in+Go;From+UI+pixels+to+server+infrastructure" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -11,33 +11,46 @@
 ## Sobre mí
 
 ```typescript
-const edcko: Developer = {
-  name: "Misael Rosas Carballo",
-  location: "México 🇲🇽",
-  languages: ["Español", "English"],
-
-  currentlyBuilding: [
-    "🛠️ Techne — Open source AI coding ecosystem in Go",
-    "📱 Client Reminder Pro — React Native / Expo",
-    "🏛️ Public Security — Next.js + PostgreSQL + DDD"
-  ],
-
-  productionSystems: {
-    BNKR: {
-      type: "Sistema de gestión para gimnasios",
-      stack: ["Vue.js", "Node.js", "PostgreSQL", "Stripe"],
-      status: "🟢 En producción"
-    },
-    Cherry: {
-      type: "Sistema de gestión para spas",
-      stack: ["Vue 3", "Socket.io", "multi-tenant"],
-      status: "🟢 En producción"
-    }
+const edcko = {
+  identity: {
+    name: "Misael Rosas Carballo",
+    base: "México",
   },
 
-  dailyTools: ["Neovim", "Tmux", "Git", "Docker"],
+  // What I actually do — not titles, real work
+  activeProjects: [
+    {
+      name: "BNKR",
+      desc: "Multi-tenant gym management — Vue.js + PostgreSQL + Stripe",
+      users: "live in production",
+    },
+    {
+      name: "Cherry",
+      desc: "Multi-tenant spa management — Vue 3 + Socket.io + real-time",
+      users: "live in production",
+    },
+    {
+      name: "Public Security",
+      desc: "Police management system — Next.js + PostgreSQL + DDD architecture",
+      users: "in production",
+    },
+  ],
 
-  philosophy: "Cada capa del sistema importa — desde la UI hasta la infraestructura"
+  // The Go ecosystem
+  openSource: {
+    techne: "AI coding agent — multi-provider, sub-agent orchestration, TUI",
+    mneme: "Persistent memory system — SQLite + FTS5 + MCP + HTTP API",
+    hefesto: "Dev environment forge — SDD workflow, TUI installer, Homebrew",
+  },
+
+  // How I work
+  tools: ["Neovim", "Tmux", "Docker", "Git"],
+
+  principles: [
+    "Every layer matters — UI to infrastructure",
+    "Production over prototypes",
+    "Open source over reinventing",
+  ],
 };
 ```
 
