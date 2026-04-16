@@ -56,7 +56,7 @@ const edcko = {
 
 ---
 
-<details>
+<details open>
 <summary><b>🧑‍💻 Lenguajes más usados</b></summary>
 <br>
 
