@@ -1,79 +1,120 @@
-# Misael Rosas Carballo
+# ¡Hola! Soy Misael Rosas Carballo 👋
 
-**Full Stack Developer** | México
-
-Construyo sistemas en producción con arquitecturas multi-tenant, integraciones de pago y despliegue real. No prototypes, no demos — software que opera. Actualmente desarrollando herramientas open source para el ecosistema Techne en Go, y sistemas de gestión para clientes en producción con Vue.js, React y Next.js.
-
-Español nativo / English conversational.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20Python%20|%20DevOps&descAlignY=65" />
 
 ---
 
-### Stack
+## Sobre mí
 
-**Frontend**
+Full Stack Developer especializado en la construcción de software orientado a necesidades reales de negocio. He desarrollado e implementado plataformas completas para distintos sectores, participando en frontend, backend, bases de datos, integraciones de terceros y despliegue en producción.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+Cuento con experiencia en integraciones de pago como Stripe y Mercado Pago, configuración de infraestructura con Docker y Nginx, y diseño de arquitecturas multi-tenant con aislamiento de información por cliente.
+
+Mi enfoque se centra en comprender cada capa del sistema para crear soluciones sólidas, mantenibles y funcionales, desde la lógica de negocio y la persistencia de datos hasta la automatización y el despliegue.
+
+---
+
+## Estadísticas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&hide_rank=true" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&hide_border=true&hide_rank=true" />
+</picture>
+
+---
+
+## Proyectos destacados
+
+### 🏋️ [Sistema de Gestión para Gimnasios — BNKR](https://www.bunkerboxgym.com)
+
+Desarrollo integral de una plataforma para la administración operativa de gimnasios con múltiples sucursales, enfocada en membresías, reservas, control de usuarios y seguimiento del negocio.
+
+<p align="center">
+  <img src="assets/Dashboard_admin.png" alt="Dashboard BNKR" width="45%" />
+  <img src="assets/Clientes.png" alt="Clientes BNKR" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/Membresia.png" alt="Membresías BNKR" width="45%" />
+</p>
+
+**Principales funcionalidades:**
+- Gestión multi-sucursal con separación operativa de información
+- Integración de pagos con Stripe para membresías y renovaciones
+- Reservas de clases con control de capacidad e instructores
+- Sistema de roles y permisos para distintos tipos de usuario
+- Dashboard con métricas, reportes y seguimiento operativo
+- Módulo de inventario con alertas por niveles de stock
+
+**Stack principal:** Vue.js 3 · Node.js · TypeScript · PostgreSQL · Prisma · Stripe · Socket.io · Docker · Nginx
+
+---
+
+### 💆 [Sistema de Gestión para Spas — Cherry](https://www.gpocherry.com/login)
+
+Plataforma de gestión para spas orientada a la administración de sucursales, agenda operativa, clientes, servicios y seguimiento comercial.
+
+<p align="center">
+  <img src="assets/Dashboard_ventas.png" alt="Dashboard Cherry" width="45%" />
+  <img src="assets/Calendario_inteligente.png" alt="Calendario Cherry" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/Vista_clientes.png" alt="Clientes Cherry" width="45%" />
+</p>
+
+**Principales funcionalidades:**
+- Calendario operativo con validación de conflictos y control de cabinas
+- Gestión de clientes con historial de sesiones, compras y pagos
+- Arquitectura multi-tenant para operación de múltiples sucursales
+- Sistema de roles con permisos diferenciados por perfil
+- Reportes exportables para administración y control interno
+- Sincronización en tiempo real para reflejar cambios entre usuarios
+
+**Stack principal:** Vue 3 · Pinia · Vuetify · Node.js · Express · PostgreSQL · Socket.io · JWT
+
+---
+
+## Stack tecnológico
+
+**Lenguajes**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend e infraestructura**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-**Database & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### Proyectos destacados
+## Contacto
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [**techne-code**](https://github.com/Edcko/techne-code) | Open source coding AI agent — extensible, multi-provider, sub-agent orchestration | Go |
-| [**Mneme**](https://github.com/Edcko/Mneme) | Persistent memory system for AI agents — SQLite + FTS5, MCP server, HTTP API, TUI | Go |
-| [**Hefesto**](https://github.com/Edcko/Hefesto) | AI-powered dev environment forge — SDD workflow, TUI installer, Homebrew distribution | Go |
-| [**public_security**](https://github.com/Edcko/public_security) | Sistema de gestión policial — multi-tenant con RLS, DDD, armamento, GPS, turnos | Next.js · PostgreSQL |
-| [**Client-Reminder-Pro**](https://github.com/Edcko/Client-Reminder-Pro) | App de recordatorios y citas para clientes con notificaciones push | Expo · React Native |
-| [**one-baby-shop**](https://github.com/Edcko/one-baby-shop) | E-commerce con carrito persistente, PayPal/Mercado Pago, panel admin | Vue 3 · Tailwind |
+[![Email](https://img.shields.io/badge/Email-misaelrosascarballo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:misaelrosascarballo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Misael_Rosas_Carballo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rosas-carballo)
 
 ---
 
-### Producción en vivo
-
-Sistemas operando en producción real con usuarios, pagos y datos:
-
-- **[BNKR](https://www.bunkerboxgym.com)** — Gestión multi-sucursal para gimnasios. Stripe, reservas, roles, métricas.
-- **[Cherry](https://www.gpocherry.com)** — Gestión operativa para spas. Calendario, clientes, multi-tenant, tiempo real.
-
----
-
-### Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Edcko&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" height="170" />
-</p>
-
----
-
-### Contacto
-
-[![Email](https://img.shields.io/badge/misaelrosascarballo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:misaelrosascarballo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Misael_Rosas_Carballo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rosas-carballo)
-[![GitHub](https://img.shields.io/badge/Edcko-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edcko)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" />
