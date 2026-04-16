@@ -57,19 +57,13 @@ const edcko = {
 ---
 
 <details>
-<summary><b>📊 Estadísticas de GitHub</b></summary>
+<summary><b>🧑‍💻 Lenguajes más usados</b></summary>
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&hide_rank=true" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&hide_border=true&hide_rank=true" />
 </picture>
 
 </details>
