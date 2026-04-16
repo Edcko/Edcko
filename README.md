@@ -2,19 +2,67 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20Python%20|%20DevOps&descAlignY=65" />
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=40&lines=Building+production+systems+that+serve+real+users;Multi-tenant+architectures+with+PostgreSQL+%26+Docker;Open+source+contributor+%E2%80%94+Techne+ecosystem+in+Go;From+UI+pixels+to+server+infrastructure" alt="Typing SVG" /></a>
+</div>
+
 ---
 
 ## Sobre mí
 
-Full Stack Developer especializado en la construcción de software orientado a necesidades reales de negocio. He desarrollado e implementado plataformas completas para distintos sectores, participando en frontend, backend, bases de datos, integraciones de terceros y despliegue en producción.
+```typescript
+const edcko = {
+  identity: {
+    name: "Misael Rosas Carballo",
+    base: "México",
+  },
 
-Cuento con experiencia en integraciones de pago como Stripe y Mercado Pago, configuración de infraestructura con Docker y Nginx, y diseño de arquitecturas multi-tenant con aislamiento de información por cliente.
+  // What I actually do — not titles, real work
+  activeProjects: [
+    {
+      name: "BNKR",
+      desc: "Multi-tenant gym management — Vue.js + PostgreSQL + Stripe",
+      users: "live in production",
+    },
+    {
+      name: "Cherry",
+      desc: "Multi-tenant spa management — Vue 3 + Socket.io + real-time",
+      users: "live in production",
+    },
+    {
+      name: "Public Security",
+      desc: "Police management system — Next.js + PostgreSQL + DDD architecture",
+      users: "in production",
+    },
+  ],
 
-Mi enfoque se centra en comprender cada capa del sistema para crear soluciones sólidas, mantenibles y funcionales, desde la lógica de negocio y la persistencia de datos hasta la automatización y el despliegue.
+  // The Go ecosystem
+  openSource: {
+    techne: "AI coding agent — multi-provider, sub-agent orchestration, TUI",
+    mneme: "Persistent memory system — SQLite + FTS5 + MCP + HTTP API",
+    hefesto: "Dev environment forge — SDD workflow, TUI installer, Homebrew",
+  },
+
+  // How I work
+  tools: ["Neovim", "Tmux", "Docker", "Git"],
+
+  principles: [
+    "Every layer matters — UI to infrastructure",
+    "Production over prototypes",
+    "Open source over reinventing",
+  ],
+};
+```
 
 ---
 
-## Estadísticas
+<details>
+<summary><b>🧑‍💻 Lenguajes más usados</b></summary>
+<br>
+
+<div align="center">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Edcko.Edcko)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
@@ -22,11 +70,9 @@ Mi enfoque se centra en comprender cada capa del sistema para crear soluciones s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edcko&layout=donut-vertical&hide_border=true&langs_count=8" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&hide_rank=true" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Edcko&show_icons=true&hide_border=true&hide_rank=true" />
-</picture>
+</div>
+
+</details>
 
 ---
 
