@@ -2,39 +2,43 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Vue.js%20|%20React%20|%20Node.js%20|%20Python%20|%20DevOps&descAlignY=65" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=40&lines=Full+Stack+Developer;Building+production+systems;Vue.js+%C2%B7+React+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+Python;M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=40&lines=Full+Stack+Developer;Building+production+systems;Vue.js+%C2%B7+React+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+Python;M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" /></a>
+</div>
 
 ---
 
 ## Sobre mí
 
 ```typescript
-interface Developer {
-  name: "Misael Rosas Carballo";
-  role: "Full Stack Developer";
-  location: "México 🇲🇽";
-  languages: ["Español", "English"];
+const edcko: Developer = {
+  name: "Misael Rosas Carballo",
+  location: "México 🇲🇽",
+  languages: ["Español", "English"],
 
-  currentFocus: [
-    "Sistemas multi-tenant en producción",
-    "Open source — ecosistema Techne (Go)",
-    "React Native / Expo apps"
-  ];
+  currentlyBuilding: [
+    "🛠️ Techne — Open source AI coding ecosystem in Go",
+    "📱 Client Reminder Pro — React Native / Expo",
+    "🏛️ Public Security — Next.js + PostgreSQL + DDD"
+  ],
 
-  productionProjects: {
-    bnkr: "Sistema de gestión para gimnasios — Vue.js · Stripe · PostgreSQL";
-    cherry: "Sistema de gestión para spas — Vue 3 · Socket.io · multi-tenant";
-    publicSecurity: "Gestión policial — Next.js · PostgreSQL";
-  };
+  productionSystems: {
+    BNKR: {
+      type: "Sistema de gestión para gimnasios",
+      stack: ["Vue.js", "Node.js", "PostgreSQL", "Stripe"],
+      status: "🟢 En producción"
+    },
+    Cherry: {
+      type: "Sistema de gestión para spas",
+      stack: ["Vue 3", "Socket.io", "multi-tenant"],
+      status: "🟢 En producción"
+    }
+  },
 
-  infrastructure: [
-    "Docker & Nginx para despliegue en producción",
-    "Arquitecturas multi-tenant con aislamiento por cliente",
-    "Integraciones de pago: Stripe, Mercado Pago"
-  ];
+  dailyTools: ["Neovim", "Tmux", "Git", "Docker"],
 
-  philosophy: "Cada capa del sistema importa — desde la UI hasta la infraestructura";
-}
+  philosophy: "Cada capa del sistema importa — desde la UI hasta la infraestructura"
+};
 ```
 
 ---
